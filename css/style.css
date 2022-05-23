@@ -345,3 +345,14 @@ footer i:hover {
     width: 100%;
   }
 }
+
+.screen-telefono {
+  max-width: 300px;
+}
+
+@media (max-width: 900px) {
+  .screen-telefono {
+    max-width: 90%;
+  }
+}
+
