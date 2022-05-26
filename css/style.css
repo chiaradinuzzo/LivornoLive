@@ -70,9 +70,9 @@ nav li:hover {
   display: flex;
   flex-direction: row;
   font-size: 1.15rem;
-  width: 70%;
+  width: 80%;
   margin: 5em auto;
-  gap: 10%;
+  gap: 5%;
 }
 
 .divider {
